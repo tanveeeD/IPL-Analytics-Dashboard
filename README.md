@@ -46,6 +46,5 @@ Add your dashboard screenshot here.
 - Top Player of Match award winners
 - Seasonal match participation trends
 
-## Author
+<img width="642" height="748" alt="ipl dashboard" src="https://github.com/user-attachments/assets/303dd4a5-9ea7-4b10-955e-a34a527e9fc0" />
 
-Tanvee
